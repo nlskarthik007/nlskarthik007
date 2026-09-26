@@ -1,27 +1,27 @@
 <div align="center">
-  <!-- Animated Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=24,15,4,2,0&amp;height=220&amp;section=header&amp;text=Hi,%20I%20am%20Surya%20Karthik&amp;fontSize=42&amp;fontAlignY=38&amp;animation=twinkling&amp;desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Full-Stack&amp;descFontSize=18&amp;descAlignY=60" width="100%" />
 
-  <!-- Animated Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=61DAFB&amp;center=true&amp;vcenter=true&amp;width=600&amp;lines=Full-Stack+%26+Distributed+Systems;Edge+AI+%7C+TinyML+on+ESP32;Mobile+%26+Cross-Platform+Dev;Always+Building+%26+Learning+New+Tech" alt="Typing SVG" />
-  </a>
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,4,2,0&height=220&section=header&text=Hi,%20I%20am%20Surya%20Karthik&fontSize=42&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Full-Stack&descFontSize=18&descAlignY=60)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Full-Stack+%26+Distributed+Systems;Edge+AI+%7C+TinyML+on+ESP32;Mobile+%26+Cross-Platform+Dev;Always+Building+%26+Learning+New+Tech)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
 
 ---
 
-🚀 About Me
+### 🚀 About Me
 
 - 🔭 **I’m currently working on** EDITH (TinyML voice activation on ESP32) & autonomous ROS 2 navigation systems.
 - 👯 **I’m looking to collaborate on** AI model training pipelines, edge ML deployment, and scalable full-stack applications.
 - 🤝 **I’m looking for help with** Optimizing distributed AI model training pipelines and scaling full-stack cloud deployments.
 - 🌱 **I’m currently learning** Deep reinforcement learning algorithms, transformer architectures, and advanced self-supervised representation learning.
 - 💬 **Ask me about** Embedded C/C++, TypeScript/React, PyTorch, ROS 2, and end-to-end full-stack web builds.
+- ⚡ **Fun fact** I can go from designing digital logic circuits and debugging microcontrollers to training neural nets and writing full-stack apps without switching desks!
 
+---
 
-🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills
 
 <table>
   <tr>
@@ -86,7 +86,8 @@
 </table>
 
 ---
- 📂 Featured Projects
+
+### 📂 Featured Projects
 
 - 🎙️ **EDITH (TinyML Voice Activator):** On-device low-latency keyword spotting utilizing Quantized Depthwise Separable CNNs deployed on ESP32 via TensorFlow Lite for Microcontrollers.
 - 🏎️ **Autonomous B3B Buggy:** ROS 2 and OpenCV-powered autonomous navigation pipeline with LIDAR obstacle avoidance and HSV masking for trajectory smoothing.
@@ -95,15 +96,18 @@
 
 ---
 
-🌟 Top Repository
+### 🌟 Top Repository
 
-<p align="center">
-  <a href="https://github.com/nlskarthik007/EDITH-Edge-Voice-Activator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nlskarthik007&amp;repo=EDITH-Edge-Voice-Activator&amp;theme=tokyonight&amp;hide_border=true&amp;v=1" alt="Top Contributed Repo" />
-  </a>
-</p>
+<div align="center">
+
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=byebyewe86-alt&repo=EDITH-Edge-Voice-Activator&theme=tokyonight&hide_border=true&v=1)](https://github.com/byebyewe86-alt/EDITH-Edge-Voice-Activator)
+
+</div>
 
 <br/>
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,4,15,24&amp;height=100&amp;section=footer" width="100%" />
+<div align="center">
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,15,24&height=100&section=footer)
+
+</div>
