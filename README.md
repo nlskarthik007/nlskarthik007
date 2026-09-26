@@ -95,9 +95,9 @@
 > *On-device low-latency keyword spotting utilizing Quantized Depthwise Separable CNNs deployed on ESP32 via TensorFlow Lite for Microcontrollers.* <br/>
 > 💡 **My Contributions:** `ML Engineer: 10+ commits` | Architecture, Model Optimization, and ESP32 Deployment
 >
-> **[Innovation-Center-Portal](https://github.com/your-username/your-repo-name)** <br/>
-> *Full-stack research logistics platform leveraging React 19, transactional PostgreSQL via Drizzle ORM, and contract-first tRPC pipelines to eliminate manual lab inventory tracking and streamline student project governance.* <br/>
-> 💡 **My Contributions:** `Core Developer: 40+ commits` | System Architecture, End to End Development, Relational Schema Design, and RBAC Operations
+> **[Innovation-Center-Web](https://github.com/nlskarthik007/IC_web_t2)** <br/>
+> *Full-stack research logistics platform leveraging React, transactional PostgreSQL via Drizzle ORM, and contract-first tRPC pipelines to eliminate manual lab inventory tracking and streamline student project governance.* <br/>
+> 💡 **My Contributions:** `Core Developer: 40+ commits` | System Architecture, End-to-End Development, Relational Schema Design, and RBAC Operations
 
 
 ---
