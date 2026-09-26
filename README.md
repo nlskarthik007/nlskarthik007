@@ -1,8 +1,10 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,4,2,0&height=220&section=header&text=Hi,%20I%20am%20Surya%20Karthik&fontSize=42&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Full-Stack&descFontSize=18&descAlignY=60)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=24,15,4,2,0&amp;height=220&amp;section=header&amp;text=Hi,%20I%20am%20Surya%20Karthik&amp;fontSize=42&amp;fontAlignY=38&amp;animation=twinkling&amp;desc=Software%20Engineer%20%7C%20AI%20and%20ML%20%7C%20Full-Stack&amp;descFontSize=18&amp;descAlignY=60" width="100%" alt="Header Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Full-Stack+%26+Distributed+Systems;Edge+AI+%7C+TinyML+on+ESP32;Mobile+%26+Cross-Platform+Dev;Always+Building+%26+Learning+New+Tech)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=61DAFB&amp;center=true&amp;vcenter=true&amp;width=600&amp;lines=Full-Stack+and+Distributed+Systems;Edge+AI+%7C+TinyML+on+ESP32;Mobile+and+Cross-Platform+Dev;Always+Building+and+Learning+New+Tech" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -12,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🔭 **I’m currently working on** EDITH (TinyML voice activation on ESP32) & autonomous ROS 2 navigation systems.
+- 🔭 **I’m currently working on** EDITH (TinyML voice activation on ESP32) and autonomous ROS 2 navigation systems.
 - 👯 **I’m looking to collaborate on** AI model training pipelines, edge ML deployment, and scalable full-stack applications.
 - 🤝 **I’m looking for help with** Optimizing distributed AI model training pipelines and scaling full-stack cloud deployments.
 - 🌱 **I’m currently learning** Deep reinforcement learning algorithms, transformer architectures, and advanced self-supervised representation learning.
@@ -21,11 +23,11 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack and Skills
 
 <table>
   <tr>
-    <td align="center" width="20%"><strong>AI & Data Science</strong></td>
+    <td align="center" width="22%"><strong>AI and Data Science</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" />
@@ -37,7 +39,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Frontend & Mobile</strong></td>
+    <td align="center"><strong>Frontend and Mobile</strong></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
@@ -50,7 +52,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Backend & Databases</strong></td>
+    <td align="center"><strong>Backend and Databases</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&amp;logo=express&amp;logoColor=white" />
@@ -61,7 +63,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Embedded & Robotics</strong></td>
+    <td align="center"><strong>Embedded and Robotics</strong></td>
     <td>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" />
@@ -72,7 +74,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>DevOps & Core Tools</strong></td>
+    <td align="center"><strong>DevOps and Core Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
@@ -87,27 +89,22 @@
 
 ---
 
-### 📂 Featured Projects
+### 🌟 Top Contributed Repository
 
-- 🎙️ **EDITH (TinyML Voice Activator):** On-device low-latency keyword spotting utilizing Quantized Depthwise Separable CNNs deployed on ESP32 via TensorFlow Lite for Microcontrollers.
+> **[EDITH-Edge-Voice-Activator](https://github.com/byebyewe86-alt/EDITH-Edge-Voice-Activator)** <br/>
+> *On-device low-latency keyword spotting utilizing Quantized Depthwise Separable CNNs deployed on ESP32 via TensorFlow Lite for Microcontrollers.* <br/>
+> 💡 **My Contributions:** `10+ commits` | Architecture, Model Optimization, and ESP32 Deployment
+
+---
+
+### 📂 Other Featured Projects
+
 - 🏎️ **Autonomous B3B Buggy:** ROS 2 and OpenCV-powered autonomous navigation pipeline with LIDAR obstacle avoidance and HSV masking for trajectory smoothing.
 - 🛡️ **Smart Home Security System:** Hardware design featuring EEPROM-backed RFID access control and real-time gas, flame, and flood sensor monitoring.
 - 🛒 **Full-Stack E-Commerce Platform:** Production-ready web app built with React, Node.js, and Firebase with automated order workflows.
 
----
-
-### 🌟 Top Repository
-
-<div align="center">
-
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=byebyewe86-alt&repo=EDITH-Edge-Voice-Activator&theme=tokyonight&hide_border=true&v=1)](https://github.com/byebyewe86-alt/EDITH-Edge-Voice-Activator)
-
-</div>
-
 <br/>
 
 <div align="center">
-
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,15,24&height=100&section=footer)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,4,15,24&amp;height=100&amp;section=footer" width="100%" alt="Footer Wave" />
 </div>
