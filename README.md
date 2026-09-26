@@ -107,7 +107,7 @@
 - ✋ **Hand Sign Detection**: Trained a custom Model from scratch, Real-time computer vision application built with Python and OpenCV to detect, track, and classify hand gestures from live video feeds.
 - 🛡️ **Smart Home Security System:** Hardware design featuring EEPROM-backed RFID access control and real-time gas, flame, and flood sensor monitoring.
 - 🛒 **Full-Stack E-Commerce Platform:** Production-ready web app built with React, Node.js, and Firebase with automated order workflows.
-- 🏛️ **Innovation Center Web-Appilication**: React  and tRPC-powered full-stack lab management platform with automated hardware inventory tracking and RBAC member dashboards for streamlined campus research operations.
+
 <br/>
 
 <div align="center">
