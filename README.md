@@ -18,8 +18,8 @@
 - 👯 **I’m looking to collaborate on** AI model training pipelines, edge ML deployment, and scalable full-stack applications.
 - 🤝 **I’m looking for help with** Optimizing distributed AI model training pipelines and scaling full-stack cloud deployments.
 - 🌱 **I’m currently learning** Deep reinforcement learning algorithms, transformer architectures, and advanced self-supervised representation learning.
-- 💬 **Ask me about** Embedded C/C++, TypeScript/React, PyTorch, ROS 2, and end-to-end full-stack web builds.
-- ⚡ **Fun fact** I can go from designing digital logic circuits and debugging microcontrollers to training neural nets and writing full-stack apps without switching desks!
+- 💬 **Ask me about** Embedded C/C++, TypeScript/React, PyTorch, TinyML, ROS 2, and end-to-end full-stack web builds.
+- ⚡ **Fun fact** I can go building fun Web and mobile Apps to training neural nets and writing full-stack apps without switching desks!
 
 ---
 
@@ -93,16 +93,21 @@
 
 > **[EDITH-Edge-Voice-Activator](https://github.com/byebyewe86-alt/EDITH-Edge-Voice-Activator)** <br/>
 > *On-device low-latency keyword spotting utilizing Quantized Depthwise Separable CNNs deployed on ESP32 via TensorFlow Lite for Microcontrollers.* <br/>
-> 💡 **My Contributions:** `10+ commits` | Architecture, Model Optimization, and ESP32 Deployment
+> 💡 **My Contributions:** `ML Engineer: 10+ commits` | Architecture, Model Optimization, and ESP32 Deployment
+>
+> **[Innovation-Center-Portal](https://github.com/your-username/your-repo-name)** <br/>
+> *Full-stack research logistics platform leveraging React 19, transactional PostgreSQL via Drizzle ORM, and contract-first tRPC pipelines to eliminate manual lab inventory tracking and streamline student project governance.* <br/>
+> 💡 **My Contributions:** `Core Developer: 40+ commits` | System Architecture, End to End Development, Relational Schema Design, and RBAC Operations
+
 
 ---
 
 ### 📂 Other Featured Projects
 
-- 🏎️ **Autonomous B3B Buggy:** ROS 2 and OpenCV-powered autonomous navigation pipeline with LIDAR obstacle avoidance and HSV masking for trajectory smoothing.
+- ✋ **Hand Sign Detection**: Trained a custom Model from scratch, Real-time computer vision application built with Python and OpenCV to detect, track, and classify hand gestures from live video feeds.
 - 🛡️ **Smart Home Security System:** Hardware design featuring EEPROM-backed RFID access control and real-time gas, flame, and flood sensor monitoring.
 - 🛒 **Full-Stack E-Commerce Platform:** Production-ready web app built with React, Node.js, and Firebase with automated order workflows.
-
+- 🏛️ **Innovation Center Web-Appilication**: React  and tRPC-powered full-stack lab management platform with automated hardware inventory tracking and RBAC member dashboards for streamlined campus research operations.
 <br/>
 
 <div align="center">
