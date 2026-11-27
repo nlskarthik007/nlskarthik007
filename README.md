@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,4,2,0&height=230&section=header&text=Hi,%20I%20am%20Surya%20Karthik&fontSize=44&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%7C%20RL%20and%20Robotics%20%7C%20Edge%20AI%20%7C%20Full-Stack&descFontSize=18&descAlignY=58" width="100%" alt="Header Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=61DAFB&center=true&vcenter=true&width=720&lines=Multi-Terrain+RL+and+MuJoCo+Autonomous+Navigation;Edge+AI+%7C+INT8+TinyML+Keyword+Spotting+on+ESP32-S3;ROS+2+Perception,+16-Ray+LIDAR+and+PID+Control;Full-Stack+Web,+Simulators+and+Distributed+Systems" alt="Hero Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=61DAFB&center=true&vcenter=true&width=740&lines=STRIDER%3A+Multi-Terrain+RL+and+MuJoCo+Autonomous+Navigation;Edge+AI+%7C+INT8+TinyML+Keyword+Spotting+on+ESP32-S3;ROS+2+Perception,+16-Ray+LIDAR+and+PID+Control;Full-Stack+Web,+Simulators+and+Distributed+Systems" alt="Hero Typing Banner" />
 </a>
 
 <p>
@@ -26,7 +26,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=2000&color=A855F7&center=true&vcenter=true&width=520&lines=%F0%9F%9A%80+ABOUT+ME+%7C%7C+SYSTEMS+AND+AI+BUILDER" alt="About Me Animated Banner" />
 </div>
 
-- 🔭 **Currently Building:** Multi-terrain generalist RL agents (**RL_buggy_2.0**) in MuJoCo, **EDITH** (INT8 TinyML voice activation on ESP32-S3), and full-stack robotics simulation platforms.
+- 🔭 **Currently Building:** **STRIDER** (`RL_buggy_2.0`), a multi-terrain generalist RL navigation agent in MuJoCo, **EDITH** (INT8 TinyML voice activation on ESP32-S3), and full-stack robotics simulation platforms.
 - 👯 **Looking to Collaborate On:** Sim-to-real autonomous navigation, reinforcement learning pipelines, edge ML deployment, and scalable full-stack web applications.
 - 🤝 **Looking for Help With:** Distributed RL/AI training acceleration and high-throughput cloud deployment architectures.
 - 🌱 **Currently Learning:** Deep reinforcement learning, recurrent policy architectures (LSTM), transformer models, and self-supervised representation learning.
@@ -118,8 +118,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=2000&color=A855F7&center=true&vcenter=true&width=580&lines=%F0%9F%8C%9F+FLAGSHIP+AND+TOP+CONTRIBUTED+REPOSITORIES" alt="Featured Repos Animated Banner" />
 </div>
 
-> **[RL_buggy_2.0](https://github.com/nlskarthik007/RL_buggy_2.0)** <br/>
-> *Next-generation multi-terrain autonomous navigation in MuJoCo powered by `UnifiedBuggyEnv`, a 16-ray planar LIDAR suite, Unified DAgger imitation warmstart, and RecurrentPPO (LSTM) fine-tuning. A single generalist policy adapts zero-shot across orthogonal mazes (`ortho_maze`), sweeping curves (`curve_track`), obstacle fields (`open_arena`), and composite arenas (`hybrid_arena`).* <br/>
+> **[STRIDER (`RL_buggy_2.0`)](https://github.com/nlskarthik007/RL_buggy_2.0)** <br/>
+> *Next-generation multi-terrain autonomous navigation buggy in MuJoCo powered by `UnifiedBuggyEnv`, a 16-ray planar LIDAR suite, Unified DAgger imitation warmstart, and RecurrentPPO (LSTM) fine-tuning. A single generalist policy adapts zero-shot across orthogonal mazes (`ortho_maze`), sweeping curves (`curve_track`), obstacle fields (`open_arena`), and composite arenas (`hybrid_arena`).* <br/>
 > 💡 **Benchmarks:** `95.0% Multi-Terrain Generalist (38/40)` | `92.5% Stress Tests (74/80)` | `100% Continuous Euclidean (50/50)` | `98.6% Unseen Curves (142/144)`
 >
 > **[RL_Maze_Buggy](https://github.com/nlskarthik007/RL_Maze_Buggy)** <br/>
